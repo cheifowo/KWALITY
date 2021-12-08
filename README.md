@@ -23,22 +23,36 @@ Also a Microsoft Azure account and **Azure IoT Central** app is necessary as thi
 
 ### Installing
 
-Before running the program run the following lines of code in the visual studio terminal
+Before running the program run the following lines of code in the visual studio terminal. This will install some of the necessary packages
+```
+dotnet add package AzureMapsRestToolkit --version 7.1.0
 ```
 
 ```
-
-And repeat
+dotnet add package Microsoft.Azure.Devices.Client --version 1.39.0
+```
 
 ```
-until finished
+dotnet add package Microsoft.Azure.Devices.Provisioning.Client --version 1.19.0
+```
+
+```
+dotnet add package Microsoft.Azure.Devices.Provisioning.Transport.Mqtt --version 1.17.0
+```
+
+```
+dotnet add package System.Text.Json --version 6.0.0
+```
+
+```
+dotnet add package LumenWorksCsvReader
 ```
 
 ## Deployment
 The program is run by navigating to it's directory in the terminal and inserting the following code
-'''
+```
 dotnet run 
-'''
+```
 
 ## Built With
 
@@ -49,17 +63,10 @@ dotnet run
 * Microsoft Excel
 * [Microsoft Azure IoT Central](https://azure.microsoft.com/en-us/services/iot-central/)
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Oni Abdulazeez** - *Initial work* - [cheifowo](https://github.com/cheifowo)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -69,6 +76,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Hearty Thanks to my team mates who contributed one way or another to the success of this project
+* Hats off to Microsoft learn for its guidance on how to implement various cloud solutions using Microsoft Azure and for providing the sample code on which this is based
+* United States EPA for providing accurate and clean data on airquailty
+* The Microsoft Africa Development Center Team
+* And all Microsoft Student Ambassadors. Big Ups!!!
