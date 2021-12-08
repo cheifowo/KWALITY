@@ -2,6 +2,8 @@
 
 **An application to simulate an Air Pollution Monitoring Device.**
 
+![Electrical Design](https://github.com/cheifowo/KWALITY/blob/main/Electrical_Circuit_Design.jpeg)
+
 This application simulates the communication between Microsoft Azure IoT Central and an IoT device designed to collect pollution level data from it's immediate environment. IoT Central treats this simulation as real and the communication code between this device app and the IoT Central app is the same for a real device.
 
 The application sends pollution level data extracted from csv files. The csv files were extracted from the daily survey data provided by the United States Environmental Protection Agency (EPA) using Microsoft Excel.
