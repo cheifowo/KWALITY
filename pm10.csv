@@ -1,353 +1,353 @@
-Date,Daily Mean PM10 Concentration
-1/1/2019,7.00
-1/2/2019,16.00
-1/3/2019,29.00
-1/4/2019,27.00
-1/5/2019,18.00
-1/6/2019,3.00
-1/7/2019,4.00
-1/8/2019,12.00
-1/9/2019,13.00
-1/10/2019,13.00
-1/11/2019,18.00
-1/12/2019,5.00
-1/13/2019,4.00
-1/14/2019,3.00
-1/15/2019,4.00
-1/16/2019,3.00
-1/17/2019,2.00
-1/18/2019,6.00
-1/19/2019,12.00
-1/20/2019,6.00
-1/21/2019,6.00
-1/22/2019,9.00
-1/23/2019,18.00
-1/24/2019,14.00
-1/25/2019,16.00
-1/26/2019,12.00
-1/27/2019,12.00
-1/28/2019,21.00
-1/29/2019,17.00
-1/30/2019,27.00
-1/31/2019,22.00
-2/1/2019,11.00
-2/2/2019,3.00
-2/3/2019,0.00
-2/4/2019,1.00
-2/5/2019,0.00
-2/6/2019,3.00
-2/7/2019,12.00
-2/8/2019,15.00
-2/9/2019,4.00
-2/10/2019,0.00
-2/11/2019,9.00
-2/12/2019,17.00
-2/13/2019,14.00
-2/14/2019,4.00
-2/15/2019,1.00
-2/16/2019,2.00
-2/17/2019,0.00
-2/18/2019,2.00
-2/19/2019,6.00
-2/20/2019,7.00
-2/21/2019,1.00
-2/22/2019,6.00
-2/23/2019,10.00
-2/24/2019,9.00
-2/25/2019,20.00
-2/26/2019,20.00
-2/27/2019,14.00
-2/28/2019,3.00
-3/1/2019,9.00
-3/2/2019,1.00
-3/3/2019,0.00
-3/4/2019,5.00
-3/5/2019,10.00
-3/6/2019,1.00
-3/7/2019,4.00
-3/8/2019,3.00
-3/9/2019,7.00
-3/10/2019,3.00
-3/11/2019,8.00
-3/12/2019,11.00
-3/13/2019,10.00
-3/14/2019,10.00
-3/15/2019,10.00
-3/16/2019,12.00
-3/17/2019,14.00
-3/18/2019,25.00
-3/19/2019,27.00
-3/20/2019,7.00
-3/21/2019,4.00
-3/22/2019,7.00
-3/23/2019,9.00
-3/24/2019,14.00
-3/25/2019,25.00
-3/26/2019,28.00
-3/27/2019,15.00
-3/28/2019,5.00
-3/29/2019,13.00
-3/30/2019,17.00
-3/31/2019,13.00
-4/1/2019,26.00
-4/2/2019,23.00
-4/3/2019,10.00
-4/4/2019,12.00
-4/5/2019,6.00
-4/6/2019,8.00
-4/7/2019,12.00
-4/8/2019,20.00
-4/9/2019,45.00
-4/10/2019,16.00
-4/11/2019,21.00
-4/12/2019,10.00
-4/13/2019,13.00
-4/14/2019,16.00
-4/15/2019,16.00
-4/16/2019,13.00
-4/17/2019,14.00
-4/26/2019,30.00
-4/27/2019,26.00
-4/28/2019,22.00
-4/29/2019,15.00
-4/30/2019,13.00
-5/1/2019,26.00
-5/2/2019,32.00
-5/3/2019,35.00
-5/4/2019,30.00
-5/5/2019,29.00
-5/6/2019,14.00
-5/7/2019,22.00
-5/8/2019,22.00
-5/9/2019,22.00
-5/10/2019,5.00
-5/11/2019,9.00
-5/12/2019,17.00
-5/13/2019,25.00
-5/14/2019,26.00
-5/15/2019,19.00
-5/16/2019,7.00
-5/17/2019,13.00
-5/18/2019,18.00
-5/19/2019,6.00
-5/20/2019,6.00
-5/21/2019,9.00
-5/24/2019,12.00
-5/25/2019,17.00
-5/26/2019,8.00
-5/27/2019,6.00
-5/28/2019,9.00
-5/29/2019,19.00
-5/30/2019,17.00
-5/31/2019,18.00
-6/1/2019,21.00
-6/2/2019,17.00
-6/3/2019,21.00
-6/4/2019,26.00
-6/5/2019,28.00
-6/6/2019,23.00
-6/7/2019,31.00
-6/8/2019,36.00
-6/9/2019,24.00
-6/10/2019,22.00
-6/11/2019,30.00
-6/12/2019,29.00
-6/13/2019,28.00
-6/14/2019,24.00
-6/15/2019,25.00
-6/16/2019,23.00
-6/17/2019,28.00
-6/18/2019,33.00
-6/19/2019,31.00
-6/20/2019,37.00
-6/21/2019,25.00
-6/22/2019,24.00
-6/23/2019,22.00
-6/24/2019,27.00
-6/25/2019,27.00
-6/26/2019,25.00
-6/27/2019,24.00
-6/28/2019,19.00
-6/29/2019,19.00
-6/30/2019,18.00
-7/1/2019,24.00
-7/2/2019,29.00
-7/3/2019,33.00
-7/4/2019,27.00
-7/5/2019,29.00
-7/6/2019,28.00
-7/7/2019,27.00
-7/8/2019,29.00
-7/9/2019,26.00
-7/10/2019,27.00
-7/11/2019,28.00
-7/12/2019,35.00
-7/13/2019,24.00
-7/14/2019,17.00
-7/15/2019,19.00
-7/16/2019,25.00
-7/17/2019,28.00
-7/18/2019,18.00
-7/19/2019,17.00
-7/20/2019,12.00
-7/21/2019,10.00
-7/22/2019,20.00
-7/23/2019,23.00
-7/24/2019,25.00
-7/25/2019,25.00
-7/26/2019,36.00
-7/27/2019,19.00
-7/28/2019,16.00
-7/29/2019,27.00
-7/30/2019,33.00
-7/31/2019,26.00
-8/1/2019,17.00
-8/2/2019,31.00
-8/3/2019,23.00
-8/4/2019,18.00
-8/5/2019,20.00
-8/6/2019,23.00
-8/7/2019,22.00
-8/8/2019,31.00
-8/9/2019,24.00
-8/10/2019,28.00
-8/11/2019,21.00
-8/12/2019,30.00
-8/13/2019,27.00
-8/14/2019,23.00
-8/15/2019,34.00
-8/16/2019,33.00
-8/17/2019,15.00
-8/18/2019,9.00
-8/19/2019,17.00
-8/20/2019,27.00
-8/21/2019,38.00
-8/22/2019,29.00
-8/23/2019,27.00
-8/24/2019,24.00
-8/25/2019,15.00
-8/26/2019,33.00
-8/27/2019,33.00
-8/28/2019,24.00
-8/29/2019,33.00
-8/30/2019,32.00
-8/31/2019,22.00
-9/1/2019,21.00
-9/2/2019,63.00
-9/3/2019,39.00
-9/4/2019,33.00
-9/5/2019,25.00
-9/6/2019,34.00
-9/7/2019,79.00
-9/8/2019,76.00
-9/9/2019,35.00
-9/10/2019,35.00
-9/11/2019,32.00
-9/12/2019,35.00
-9/13/2019,34.00
-9/14/2019,30.00
-9/15/2019,24.00
-9/16/2019,54.00
-9/17/2019,21.00
-9/18/2019,30.00
-9/19/2019,27.00
-9/20/2019,33.00
-9/21/2019,25.00
-9/22/2019,21.00
-9/23/2019,25.00
-9/24/2019,41.00
-9/25/2019,28.00
-9/26/2019,34.00
-9/27/2019,29.00
-9/28/2019,24.00
-9/29/2019,20.00
-9/30/2019,23.00
-10/1/2019,25.00
-10/2/2019,33.00
-10/3/2019,37.00
-10/4/2019,36.00
-10/5/2019,36.00
-10/6/2019,32.00
-10/7/2019,30.00
-10/8/2019,36.00
-10/9/2019,81.00
-10/10/2019,91.00
-10/11/2019,21.00
-10/12/2019,26.00
-10/13/2019,25.00
-10/14/2019,42.00
-10/15/2019,49.00
-10/16/2019,30.00
-10/17/2019,113.00
-10/18/2019,25.00
-10/19/2019,37.00
-10/20/2019,21.00
-10/21/2019,35.00
-10/22/2019,32.00
-10/23/2019,22.00
-10/24/2019,31.00
-10/25/2019,31.00
-10/26/2019,36.00
-10/27/2019,81.00
-10/28/2019,19.00
-10/29/2019,50.00
-10/30/2019,62.00
-10/31/2019,27.00
-11/1/2019,34.00
-11/2/2019,37.00
-11/3/2019,27.00
-11/4/2019,37.00
-11/5/2019,35.00
-11/6/2019,28.00
-11/7/2019,41.00
-11/8/2019,41.00
-11/9/2019,27.00
-11/10/2019,25.00
-11/11/2019,40.00
-11/12/2019,38.00
-11/13/2019,49.00
-11/14/2019,30.00
-11/15/2019,36.00
-11/16/2019,38.00
-11/17/2019,25.00
-11/18/2019,40.00
-11/19/2019,44.00
-11/20/2019,10.00
-11/21/2019,14.00
-11/22/2019,17.00
-11/23/2019,13.00
-11/24/2019,15.00
-11/25/2019,159.00
-11/26/2019,165.00
-11/27/2019,16.00
-11/28/2019,6.00
-11/29/2019,4.00
-11/30/2019,9.00
-12/1/2019,12.00
-12/2/2019,21.00
-12/3/2019,23.00
-12/4/2019,9.00
-12/5/2019,7.00
-12/6/2019,14.00
-12/7/2019,7.00
-12/8/2019,2.00
-12/9/2019,7.00
-12/10/2019,23.00
-12/11/2019,15.00
-12/12/2019,5.00
-12/13/2019,8.00
-12/14/2019,6.00
-12/15/2019,6.00
-12/16/2019,9.00
-12/20/2019,27.00
-12/21/2019,27.00
-12/22/2019,17.00
-12/23/2019,5.00
-12/24/2019,6.00
-12/25/2019,6.00
-12/26/2019,5.00
-12/27/2019,10.00
-12/28/2019,19.00
-12/29/2019,21.00
-12/30/2019,10.00
-12/31/2019,17.00
+"Date","Source","Site ID","POC","Daily Mean PM10 Concentration","UNITS","DAILY_AQI_VALUE","Site Name","DAILY_OBS_COUNT","PERCENT_COMPLETE","AQS_PARAMETER_CODE","AQS_PARAMETER_DESC","CBSA_CODE","CBSA_NAME","STATE_CODE","STATE","COUNTY_CODE","COUNTY","SITE_LATITUDE","SITE_LONGITUDE"
+"01/01/2019","AQS","060379033","2","7","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/02/2019","AQS","060379033","2","16","ug/m3 SC","15","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/03/2019","AQS","060379033","2","29","ug/m3 SC","27","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/04/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/05/2019","AQS","060379033","2","18","ug/m3 SC","17","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/06/2019","AQS","060379033","2","3","ug/m3 SC","3","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/07/2019","AQS","060379033","2","4","ug/m3 SC","4","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/08/2019","AQS","060379033","2","12","ug/m3 SC","11","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/09/2019","AQS","060379033","2","13","ug/m3 SC","12","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/10/2019","AQS","060379033","2","13","ug/m3 SC","12","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/11/2019","AQS","060379033","2","18","ug/m3 SC","17","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/12/2019","AQS","060379033","2","5","ug/m3 SC","5","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/13/2019","AQS","060379033","2","4","ug/m3 SC","4","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/14/2019","AQS","060379033","2","3","ug/m3 SC","3","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/15/2019","AQS","060379033","2","4","ug/m3 SC","4","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/16/2019","AQS","060379033","2","3","ug/m3 SC","3","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/17/2019","AQS","060379033","2","2","ug/m3 SC","2","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/18/2019","AQS","060379033","2","6","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/19/2019","AQS","060379033","2","12","ug/m3 SC","11","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/20/2019","AQS","060379033","2","6","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/21/2019","AQS","060379033","2","6","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/22/2019","AQS","060379033","2","9","ug/m3 SC","8","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/23/2019","AQS","060379033","2","18","ug/m3 SC","17","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/24/2019","AQS","060379033","2","14","ug/m3 SC","13","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/25/2019","AQS","060379033","2","16","ug/m3 SC","15","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/26/2019","AQS","060379033","2","12","ug/m3 SC","11","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/27/2019","AQS","060379033","2","12","ug/m3 SC","11","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/28/2019","AQS","060379033","2","21","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/29/2019","AQS","060379033","2","17","ug/m3 SC","16","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/30/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"01/31/2019","AQS","060379033","2","22","ug/m3 SC","20","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/01/2019","AQS","060379033","2","11","ug/m3 SC","10","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/02/2019","AQS","060379033","2","3","ug/m3 SC","3","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/03/2019","AQS","060379033","2","0","ug/m3 SC","0","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/04/2019","AQS","060379033","2","1","ug/m3 SC","1","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/05/2019","AQS","060379033","2","0","ug/m3 SC","0","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/06/2019","AQS","060379033","2","3","ug/m3 SC","3","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/07/2019","AQS","060379033","2","12","ug/m3 SC","11","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/08/2019","AQS","060379033","2","15","ug/m3 SC","14","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/09/2019","AQS","060379033","2","4","ug/m3 SC","4","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/10/2019","AQS","060379033","2","0","ug/m3 SC","0","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/11/2019","AQS","060379033","2","9","ug/m3 SC","8","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/12/2019","AQS","060379033","2","17","ug/m3 SC","16","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/13/2019","AQS","060379033","2","14","ug/m3 SC","13","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/14/2019","AQS","060379033","2","4","ug/m3 SC","4","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/15/2019","AQS","060379033","2","1","ug/m3 SC","1","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/16/2019","AQS","060379033","2","2","ug/m3 SC","2","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/17/2019","AQS","060379033","2","0","ug/m3 SC","0","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/18/2019","AQS","060379033","2","2","ug/m3 SC","2","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/19/2019","AQS","060379033","2","6","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/20/2019","AQS","060379033","2","7","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/21/2019","AQS","060379033","2","1","ug/m3 SC","1","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/22/2019","AQS","060379033","2","6","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/23/2019","AQS","060379033","2","10","ug/m3 SC","9","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/24/2019","AQS","060379033","2","9","ug/m3 SC","8","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/25/2019","AQS","060379033","2","20","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/26/2019","AQS","060379033","2","20","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/27/2019","AQS","060379033","2","14","ug/m3 SC","13","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"02/28/2019","AQS","060379033","2","3","ug/m3 SC","3","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/01/2019","AQS","060379033","2","9","ug/m3 SC","8","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/02/2019","AQS","060379033","2","1","ug/m3 SC","1","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/03/2019","AQS","060379033","2","0","ug/m3 SC","0","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/04/2019","AQS","060379033","2","5","ug/m3 SC","5","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/05/2019","AQS","060379033","2","10","ug/m3 SC","9","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/06/2019","AQS","060379033","2","1","ug/m3 SC","1","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/07/2019","AQS","060379033","2","4","ug/m3 SC","4","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/08/2019","AQS","060379033","2","3","ug/m3 SC","3","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/09/2019","AQS","060379033","2","7","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/10/2019","AQS","060379033","2","3","ug/m3 SC","3","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/11/2019","AQS","060379033","2","8","ug/m3 SC","7","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/12/2019","AQS","060379033","2","11","ug/m3 SC","10","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/13/2019","AQS","060379033","2","10","ug/m3 SC","9","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/14/2019","AQS","060379033","2","10","ug/m3 SC","9","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/15/2019","AQS","060379033","2","10","ug/m3 SC","9","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/16/2019","AQS","060379033","2","12","ug/m3 SC","11","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/17/2019","AQS","060379033","2","14","ug/m3 SC","13","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/18/2019","AQS","060379033","2","25","ug/m3 SC","23","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/19/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/20/2019","AQS","060379033","2","7","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/21/2019","AQS","060379033","2","4","ug/m3 SC","4","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/22/2019","AQS","060379033","2","7","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/23/2019","AQS","060379033","2","9","ug/m3 SC","8","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/24/2019","AQS","060379033","2","14","ug/m3 SC","13","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/25/2019","AQS","060379033","2","25","ug/m3 SC","23","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/26/2019","AQS","060379033","2","28","ug/m3 SC","26","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/27/2019","AQS","060379033","2","15","ug/m3 SC","14","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/28/2019","AQS","060379033","2","5","ug/m3 SC","5","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/29/2019","AQS","060379033","2","13","ug/m3 SC","12","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/30/2019","AQS","060379033","2","17","ug/m3 SC","16","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"03/31/2019","AQS","060379033","2","13","ug/m3 SC","12","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/01/2019","AQS","060379033","2","26","ug/m3 SC","24","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/02/2019","AQS","060379033","2","23","ug/m3 SC","21","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/03/2019","AQS","060379033","2","10","ug/m3 SC","9","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/04/2019","AQS","060379033","2","12","ug/m3 SC","11","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/05/2019","AQS","060379033","2","6","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/06/2019","AQS","060379033","2","8","ug/m3 SC","7","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/07/2019","AQS","060379033","2","12","ug/m3 SC","11","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/08/2019","AQS","060379033","2","20","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/09/2019","AQS","060379033","2","45","ug/m3 SC","42","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/10/2019","AQS","060379033","2","16","ug/m3 SC","15","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/11/2019","AQS","060379033","2","21","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/12/2019","AQS","060379033","2","10","ug/m3 SC","9","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/13/2019","AQS","060379033","2","13","ug/m3 SC","12","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/14/2019","AQS","060379033","2","16","ug/m3 SC","15","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/15/2019","AQS","060379033","2","16","ug/m3 SC","15","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/16/2019","AQS","060379033","2","13","ug/m3 SC","12","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/17/2019","AQS","060379033","2","14","ug/m3 SC","13","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/26/2019","AQS","060379033","2","30","ug/m3 SC","28","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/27/2019","AQS","060379033","2","26","ug/m3 SC","24","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/28/2019","AQS","060379033","2","22","ug/m3 SC","20","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/29/2019","AQS","060379033","2","15","ug/m3 SC","14","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"04/30/2019","AQS","060379033","2","13","ug/m3 SC","12","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/01/2019","AQS","060379033","2","26","ug/m3 SC","24","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/02/2019","AQS","060379033","2","32","ug/m3 SC","30","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/03/2019","AQS","060379033","2","35","ug/m3 SC","32","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/04/2019","AQS","060379033","2","30","ug/m3 SC","28","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/05/2019","AQS","060379033","2","29","ug/m3 SC","27","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/06/2019","AQS","060379033","2","14","ug/m3 SC","13","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/07/2019","AQS","060379033","2","22","ug/m3 SC","20","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/08/2019","AQS","060379033","2","22","ug/m3 SC","20","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/09/2019","AQS","060379033","2","22","ug/m3 SC","20","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/10/2019","AQS","060379033","2","5","ug/m3 SC","5","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/11/2019","AQS","060379033","2","9","ug/m3 SC","8","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/12/2019","AQS","060379033","2","17","ug/m3 SC","16","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/13/2019","AQS","060379033","2","25","ug/m3 SC","23","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/14/2019","AQS","060379033","2","26","ug/m3 SC","24","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/15/2019","AQS","060379033","2","19","ug/m3 SC","18","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/16/2019","AQS","060379033","2","7","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/17/2019","AQS","060379033","2","13","ug/m3 SC","12","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/18/2019","AQS","060379033","2","18","ug/m3 SC","17","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/19/2019","AQS","060379033","2","6","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/20/2019","AQS","060379033","2","6","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/21/2019","AQS","060379033","2","9","ug/m3 SC","8","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/24/2019","AQS","060379033","2","12","ug/m3 SC","11","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/25/2019","AQS","060379033","2","17","ug/m3 SC","16","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/26/2019","AQS","060379033","2","8","ug/m3 SC","7","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/27/2019","AQS","060379033","2","6","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/28/2019","AQS","060379033","2","9","ug/m3 SC","8","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/29/2019","AQS","060379033","2","19","ug/m3 SC","18","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/30/2019","AQS","060379033","2","17","ug/m3 SC","16","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"05/31/2019","AQS","060379033","2","18","ug/m3 SC","17","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/01/2019","AQS","060379033","2","21","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/02/2019","AQS","060379033","2","17","ug/m3 SC","16","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/03/2019","AQS","060379033","2","21","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/04/2019","AQS","060379033","2","26","ug/m3 SC","24","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/05/2019","AQS","060379033","2","28","ug/m3 SC","26","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/06/2019","AQS","060379033","2","23","ug/m3 SC","21","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/07/2019","AQS","060379033","2","31","ug/m3 SC","29","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/08/2019","AQS","060379033","2","36","ug/m3 SC","33","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/09/2019","AQS","060379033","2","24","ug/m3 SC","22","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/10/2019","AQS","060379033","2","22","ug/m3 SC","20","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/11/2019","AQS","060379033","2","30","ug/m3 SC","28","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/12/2019","AQS","060379033","2","29","ug/m3 SC","27","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/13/2019","AQS","060379033","2","28","ug/m3 SC","26","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/14/2019","AQS","060379033","2","24","ug/m3 SC","22","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/15/2019","AQS","060379033","2","25","ug/m3 SC","23","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/16/2019","AQS","060379033","2","23","ug/m3 SC","21","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/17/2019","AQS","060379033","2","28","ug/m3 SC","26","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/18/2019","AQS","060379033","2","33","ug/m3 SC","31","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/19/2019","AQS","060379033","2","31","ug/m3 SC","29","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/20/2019","AQS","060379033","2","37","ug/m3 SC","34","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/21/2019","AQS","060379033","2","25","ug/m3 SC","23","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/22/2019","AQS","060379033","2","24","ug/m3 SC","22","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/23/2019","AQS","060379033","2","22","ug/m3 SC","20","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/24/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/25/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/26/2019","AQS","060379033","2","25","ug/m3 SC","23","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/27/2019","AQS","060379033","2","24","ug/m3 SC","22","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/28/2019","AQS","060379033","2","19","ug/m3 SC","18","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/29/2019","AQS","060379033","2","19","ug/m3 SC","18","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"06/30/2019","AQS","060379033","2","18","ug/m3 SC","17","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/01/2019","AQS","060379033","2","24","ug/m3 SC","22","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/02/2019","AQS","060379033","2","29","ug/m3 SC","27","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/03/2019","AQS","060379033","2","33","ug/m3 SC","31","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/04/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/05/2019","AQS","060379033","2","29","ug/m3 SC","27","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/06/2019","AQS","060379033","2","28","ug/m3 SC","26","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/07/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/08/2019","AQS","060379033","2","29","ug/m3 SC","27","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/09/2019","AQS","060379033","2","26","ug/m3 SC","24","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/10/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/11/2019","AQS","060379033","2","28","ug/m3 SC","26","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/12/2019","AQS","060379033","2","35","ug/m3 SC","32","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/13/2019","AQS","060379033","2","24","ug/m3 SC","22","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/14/2019","AQS","060379033","2","17","ug/m3 SC","16","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/15/2019","AQS","060379033","2","19","ug/m3 SC","18","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/16/2019","AQS","060379033","2","25","ug/m3 SC","23","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/17/2019","AQS","060379033","2","28","ug/m3 SC","26","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/18/2019","AQS","060379033","2","18","ug/m3 SC","17","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/19/2019","AQS","060379033","2","17","ug/m3 SC","16","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/20/2019","AQS","060379033","2","12","ug/m3 SC","11","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/21/2019","AQS","060379033","2","10","ug/m3 SC","9","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/22/2019","AQS","060379033","2","20","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/23/2019","AQS","060379033","2","23","ug/m3 SC","21","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/24/2019","AQS","060379033","2","25","ug/m3 SC","23","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/25/2019","AQS","060379033","2","25","ug/m3 SC","23","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/26/2019","AQS","060379033","2","36","ug/m3 SC","33","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/27/2019","AQS","060379033","2","19","ug/m3 SC","18","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/28/2019","AQS","060379033","2","16","ug/m3 SC","15","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/29/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/30/2019","AQS","060379033","2","33","ug/m3 SC","31","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"07/31/2019","AQS","060379033","2","26","ug/m3 SC","24","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/01/2019","AQS","060379033","2","17","ug/m3 SC","16","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/02/2019","AQS","060379033","2","31","ug/m3 SC","29","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/03/2019","AQS","060379033","2","23","ug/m3 SC","21","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/04/2019","AQS","060379033","2","18","ug/m3 SC","17","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/05/2019","AQS","060379033","2","20","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/06/2019","AQS","060379033","2","23","ug/m3 SC","21","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/07/2019","AQS","060379033","2","22","ug/m3 SC","20","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/08/2019","AQS","060379033","2","31","ug/m3 SC","29","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/09/2019","AQS","060379033","2","24","ug/m3 SC","22","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/10/2019","AQS","060379033","2","28","ug/m3 SC","26","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/11/2019","AQS","060379033","2","21","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/12/2019","AQS","060379033","2","30","ug/m3 SC","28","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/13/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/14/2019","AQS","060379033","2","23","ug/m3 SC","21","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/15/2019","AQS","060379033","2","34","ug/m3 SC","31","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/16/2019","AQS","060379033","2","33","ug/m3 SC","31","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/17/2019","AQS","060379033","2","15","ug/m3 SC","14","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/18/2019","AQS","060379033","2","9","ug/m3 SC","8","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/19/2019","AQS","060379033","2","17","ug/m3 SC","16","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/20/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/21/2019","AQS","060379033","2","38","ug/m3 SC","35","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/22/2019","AQS","060379033","2","29","ug/m3 SC","27","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/23/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/24/2019","AQS","060379033","2","24","ug/m3 SC","22","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/25/2019","AQS","060379033","2","15","ug/m3 SC","14","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/26/2019","AQS","060379033","2","33","ug/m3 SC","31","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/27/2019","AQS","060379033","2","33","ug/m3 SC","31","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/28/2019","AQS","060379033","2","24","ug/m3 SC","22","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/29/2019","AQS","060379033","2","33","ug/m3 SC","31","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/30/2019","AQS","060379033","2","32","ug/m3 SC","30","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"08/31/2019","AQS","060379033","2","22","ug/m3 SC","20","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/01/2019","AQS","060379033","2","21","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/02/2019","AQS","060379033","2","63","ug/m3 SC","55","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/03/2019","AQS","060379033","2","39","ug/m3 SC","36","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/04/2019","AQS","060379033","2","33","ug/m3 SC","31","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/05/2019","AQS","060379033","2","25","ug/m3 SC","23","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/06/2019","AQS","060379033","2","34","ug/m3 SC","31","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/07/2019","AQS","060379033","2","79","ug/m3 SC","63","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/08/2019","AQS","060379033","2","76","ug/m3 SC","61","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/09/2019","AQS","060379033","2","35","ug/m3 SC","32","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/10/2019","AQS","060379033","2","35","ug/m3 SC","32","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/11/2019","AQS","060379033","2","32","ug/m3 SC","30","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/12/2019","AQS","060379033","2","35","ug/m3 SC","32","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/13/2019","AQS","060379033","2","34","ug/m3 SC","31","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/14/2019","AQS","060379033","2","30","ug/m3 SC","28","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/15/2019","AQS","060379033","2","24","ug/m3 SC","22","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/16/2019","AQS","060379033","2","54","ug/m3 SC","50","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/17/2019","AQS","060379033","2","21","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/18/2019","AQS","060379033","2","30","ug/m3 SC","28","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/19/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/20/2019","AQS","060379033","2","33","ug/m3 SC","31","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/21/2019","AQS","060379033","2","25","ug/m3 SC","23","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/22/2019","AQS","060379033","2","21","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/23/2019","AQS","060379033","2","25","ug/m3 SC","23","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/24/2019","AQS","060379033","2","41","ug/m3 SC","38","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/25/2019","AQS","060379033","2","28","ug/m3 SC","26","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/26/2019","AQS","060379033","2","34","ug/m3 SC","31","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/27/2019","AQS","060379033","2","29","ug/m3 SC","27","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/28/2019","AQS","060379033","2","24","ug/m3 SC","22","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/29/2019","AQS","060379033","2","20","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"09/30/2019","AQS","060379033","2","23","ug/m3 SC","21","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/01/2019","AQS","060379033","2","25","ug/m3 SC","23","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/02/2019","AQS","060379033","2","33","ug/m3 SC","31","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/03/2019","AQS","060379033","2","37","ug/m3 SC","34","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/04/2019","AQS","060379033","2","36","ug/m3 SC","33","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/05/2019","AQS","060379033","2","36","ug/m3 SC","33","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/06/2019","AQS","060379033","2","32","ug/m3 SC","30","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/07/2019","AQS","060379033","2","30","ug/m3 SC","28","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/08/2019","AQS","060379033","2","36","ug/m3 SC","33","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/09/2019","AQS","060379033","2","81","ug/m3 SC","64","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/10/2019","AQS","060379033","2","91","ug/m3 SC","69","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/11/2019","AQS","060379033","2","21","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/12/2019","AQS","060379033","2","26","ug/m3 SC","24","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/13/2019","AQS","060379033","2","25","ug/m3 SC","23","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/14/2019","AQS","060379033","2","42","ug/m3 SC","39","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/15/2019","AQS","060379033","2","49","ug/m3 SC","45","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/16/2019","AQS","060379033","2","30","ug/m3 SC","28","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/17/2019","AQS","060379033","2","113","ug/m3 SC","80","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/18/2019","AQS","060379033","2","25","ug/m3 SC","23","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/19/2019","AQS","060379033","2","37","ug/m3 SC","34","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/20/2019","AQS","060379033","2","21","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/21/2019","AQS","060379033","2","35","ug/m3 SC","32","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/22/2019","AQS","060379033","2","32","ug/m3 SC","30","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/23/2019","AQS","060379033","2","22","ug/m3 SC","20","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/24/2019","AQS","060379033","2","31","ug/m3 SC","29","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/25/2019","AQS","060379033","2","31","ug/m3 SC","29","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/26/2019","AQS","060379033","2","36","ug/m3 SC","33","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/27/2019","AQS","060379033","2","81","ug/m3 SC","64","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/28/2019","AQS","060379033","2","19","ug/m3 SC","18","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/29/2019","AQS","060379033","2","50","ug/m3 SC","46","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/30/2019","AQS","060379033","2","62","ug/m3 SC","54","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"10/31/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/01/2019","AQS","060379033","2","34","ug/m3 SC","31","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/02/2019","AQS","060379033","2","37","ug/m3 SC","34","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/03/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/04/2019","AQS","060379033","2","37","ug/m3 SC","34","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/05/2019","AQS","060379033","2","35","ug/m3 SC","32","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/06/2019","AQS","060379033","2","28","ug/m3 SC","26","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/07/2019","AQS","060379033","2","41","ug/m3 SC","38","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/08/2019","AQS","060379033","2","41","ug/m3 SC","38","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/09/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/10/2019","AQS","060379033","2","25","ug/m3 SC","23","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/11/2019","AQS","060379033","2","40","ug/m3 SC","37","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/12/2019","AQS","060379033","2","38","ug/m3 SC","35","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/13/2019","AQS","060379033","2","49","ug/m3 SC","45","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/14/2019","AQS","060379033","2","30","ug/m3 SC","28","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/15/2019","AQS","060379033","2","36","ug/m3 SC","33","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/16/2019","AQS","060379033","2","38","ug/m3 SC","35","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/17/2019","AQS","060379033","2","25","ug/m3 SC","23","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/18/2019","AQS","060379033","2","40","ug/m3 SC","37","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/19/2019","AQS","060379033","2","44","ug/m3 SC","41","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/20/2019","AQS","060379033","2","10","ug/m3 SC","9","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/21/2019","AQS","060379033","2","14","ug/m3 SC","13","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/22/2019","AQS","060379033","2","17","ug/m3 SC","16","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/23/2019","AQS","060379033","2","13","ug/m3 SC","12","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/24/2019","AQS","060379033","2","15","ug/m3 SC","14","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/25/2019","AQS","060379033","2","159","ug/m3 SC","103","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/26/2019","AQS","060379033","2","165","ug/m3 SC","106","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/27/2019","AQS","060379033","2","16","ug/m3 SC","15","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/28/2019","AQS","060379033","2","6","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/29/2019","AQS","060379033","2","4","ug/m3 SC","4","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"11/30/2019","AQS","060379033","2","9","ug/m3 SC","8","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/01/2019","AQS","060379033","2","12","ug/m3 SC","11","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/02/2019","AQS","060379033","2","21","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/03/2019","AQS","060379033","2","23","ug/m3 SC","21","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/04/2019","AQS","060379033","2","9","ug/m3 SC","8","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/05/2019","AQS","060379033","2","7","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/06/2019","AQS","060379033","2","14","ug/m3 SC","13","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/07/2019","AQS","060379033","2","7","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/08/2019","AQS","060379033","2","2","ug/m3 SC","2","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/09/2019","AQS","060379033","2","7","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/10/2019","AQS","060379033","2","23","ug/m3 SC","21","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/11/2019","AQS","060379033","2","15","ug/m3 SC","14","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/12/2019","AQS","060379033","2","5","ug/m3 SC","5","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/13/2019","AQS","060379033","2","8","ug/m3 SC","7","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/14/2019","AQS","060379033","2","6","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/15/2019","AQS","060379033","2","6","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/16/2019","AQS","060379033","2","9","ug/m3 SC","8","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/20/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/21/2019","AQS","060379033","2","27","ug/m3 SC","25","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/22/2019","AQS","060379033","2","17","ug/m3 SC","16","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/23/2019","AQS","060379033","2","5","ug/m3 SC","5","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/24/2019","AQS","060379033","2","6","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/25/2019","AQS","060379033","2","6","ug/m3 SC","6","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/26/2019","AQS","060379033","2","5","ug/m3 SC","5","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/27/2019","AQS","060379033","2","10","ug/m3 SC","9","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/28/2019","AQS","060379033","2","19","ug/m3 SC","18","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/29/2019","AQS","060379033","2","21","ug/m3 SC","19","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/30/2019","AQS","060379033","2","10","ug/m3 SC","9","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"
+"12/31/2019","AQS","060379033","2","17","ug/m3 SC","16","Lancaster-Division Street","1","100.0000","81102","PM10 Total 0-10um STP","31080","Los Angeles-Long Beach-Anaheim, CA","06","California","037","Los Angeles","34.6697390008831","-118.130511"

@@ -21,45 +21,45 @@ namespace air_pollution_monitoring_device
         // Monitoring Device globals.
         
         var co_table = new DataTable();  
-        using (var csvReader = new CsvReader(new StreamReader(System.IO.File.OpenRead(@".\csv files\carbon_monoxide.csv")), true))  
+        using (var csvReader = new CsvReader(new StreamReader(System.IO.File.OpenRead(@".\carbon_monoxide.csv")), true))  
         {  
             co_table.Load(csvReader);  
         }  
 
         var no_table = new DataTable();  
-        using (var csvReader = new CsvReader(new StreamReader(System.IO.File.OpenRead(@".\csv files\nitrogen_dioxide.csv")), true))  
+        using (var csvReader = new CsvReader(new StreamReader(System.IO.File.OpenRead(@".\nitrogen_dioxide.csv")), true))  
         {  
             no_table.Load(csvReader);  
         }  
 
         var o3_table = new DataTable();  
-        using (var csvReader = new CsvReader(new StreamReader(System.IO.File.OpenRead(@".\csv files\ozone.csv")), true))  
+        using (var csvReader = new CsvReader(new StreamReader(System.IO.File.OpenRead(@".\ozone.csv")), true))  
         {  
             o3_table.Load(csvReader);  
         }  
 
         var pm10_table = new DataTable();  
-        using (var csvReader = new CsvReader(new StreamReader(System.IO.File.OpenRead(@".\csv files\pm10.csv")), true))  
+        using (var csvReader = new CsvReader(new StreamReader(System.IO.File.OpenRead(@".\pm10.csv")), true))  
         {  
             pm10_table.Load(csvReader);  
         }  
 
 
         var pm25_table = new DataTable();  
-        using (var csvReader = new CsvReader(new StreamReader(System.IO.File.OpenRead(@".\csv files\pm25.csv")), true))  
+        using (var csvReader = new CsvReader(new StreamReader(System.IO.File.OpenRead(@".\pm25.csv")), true))  
         {  
             pm25_table.Load(csvReader);  
         }  
 
        var rh_table = new DataTable();  
-        using (var csvReader = new CsvReader(new StreamReader(System.IO.File.OpenRead(@".\csv files\relative_humidity.csv")), true))  
+        using (var csvReader = new CsvReader(new StreamReader(System.IO.File.OpenRead(@".\relative_humidity.csv")), true))  
         {  
             rh_table.Load(csvReader);  
         }  
 
 
         var temp_table = new DataTable();  
-        using (var csvReader = new CsvReader(new StreamReader(System.IO.File.OpenRead(@".\csv files\temperature.csv")), true))  
+        using (var csvReader = new CsvReader(new StreamReader(System.IO.File.OpenRead(@".\temperature.csv")), true))  
         {  
             temp_table.Load(csvReader);  
         }  
@@ -73,19 +73,25 @@ namespace air_pollution_monitoring_device
         static TwinCollection reportedProperties = new TwinCollection();
 
         // User IDs.
-        static string IDScope = "0ne0044FD15";
-        static string DeviceID = "RefrigeratedTruck1";
-        static string PrimaryKey = "K5DyehF5gv4du3v9MZucWUXIU6wc0XGvA0YicuQZK2U=";
+        static string IDScope = "0ne00450985";
+        static string DeviceID = "Air_Pollution_Monitoring_Device";
+        static string PrimaryKey = "if0FVPEEtPdDTzhyX05bhQL07MkFdQ6KlJBBQBEQ1Mk=";
 
 
     };
 
     //collect progressive data input from the csv files
-    static void UpdateDevice()
+    static void UpdateDevice(int counter)
     {
-        Collect_Temperature=
-        collect_co = co_conc[i];
 
+        collect_co = co_table.Rows([counter][4]);
+        collect_no = no_table.Rows([counter][4]);
+        collect_o3 = o3_table.Rows([counter][4]);
+        collect_pm10 = pm10_table.Rows([counter][4]);
+        collect_pm25 = pm25_table.Rows([counter][4]);
+        collect_rh = rh_table.Rows([counter][17]);
+        collect_temp = temp_table.Rows([counter][7]);
+        
 
     };
 
@@ -109,20 +115,21 @@ namespace air_pollution_monitoring_device
 
     static async void SendDeviceTelemetryAsync(Random rand, CancellationToken token)
     {
-        while (true)
+        int counter =1;
+        while (counter <=1)
         {
-            UpdateDevice();
+            UpdateDevice(counter);
 
             // Create the telemetry JSON message.
             var telemetryDataPoint = new
             {
-                CarbonMonoixideConc =collect_co
-                OzoneConc = state.ToString(),
-                NitrogenDioxideConc = fan.ToString(),
-                PM10Conc = contents.ToString(),
-                PM25Conc = new { lon = currentLon, lat = currentLat },
-                Temperature = eventText,
-                Humidity = 
+                CarbonMonoixideConc =collect_co.ToString(),
+                OzoneConc = collect_o3.ToString(),
+                NitrogenDioxideConc = collect_no.ToString(),
+                PM10Conc = ccollect_pm10.ToString(),
+                PM25Conc = collect_pm25.ToString(),
+                Temperature = collect_temp.ToString(),
+                Humidity = collect_rh.ToString(),
             };
             var telemetryMessageString = JsonSerializer.Serialize(telemetryDataPoint);
             var telemetryMessage = new Message(Encoding.ASCII.GetBytes(telemetryMessageString));
@@ -137,6 +144,7 @@ namespace air_pollution_monitoring_device
             greenMessage($"Telemetry sent {DateTime.Now.ToShortTimeString()}");
 
             await Task.Delay(intervalInMilliseconds);
+            counter++
         }
     }
 
@@ -207,7 +215,7 @@ namespace air_pollution_monitoring_device
                 return result;
             }
         }
-    }
+    
    
 
 
